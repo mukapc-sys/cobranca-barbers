@@ -1,0 +1,8 @@
+name = "cobranca-barbers"
+main = "src/index.js"
+compatibility_date = "2026-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "cobrancas"
+database_id = "5449f024-64a5-48af-8514-1f188241a402"
